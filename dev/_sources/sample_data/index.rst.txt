@@ -42,9 +42,9 @@ up a Cartopy map to display the data.
 
 .. only:: html
 
-    .. figure:: /sample_data/images/thumb/sphx_glr_baja_bathymetry_thumb.png
+ .. figure:: /sample_data/images/thumb/sphx_glr_baja_bathymetry_thumb.png
 
-        :ref:`sphx_glr_sample_data_baja_bathymetry.py`
+     :ref:`sphx_glr_sample_data_baja_bathymetry.py`
 
 .. raw:: html
 
@@ -62,9 +62,9 @@ up a Cartopy map to display the data.
 
 .. only:: html
 
-    .. figure:: /sample_data/images/thumb/sphx_glr_california_gps_thumb.png
+ .. figure:: /sample_data/images/thumb/sphx_glr_california_gps_thumb.png
 
-        :ref:`sphx_glr_sample_data_california_gps.py`
+     :ref:`sphx_glr_sample_data_california_gps.py`
 
 .. raw:: html
 
@@ -82,9 +82,9 @@ up a Cartopy map to display the data.
 
 .. only:: html
 
-    .. figure:: /sample_data/images/thumb/sphx_glr_checkerboard_thumb.png
+ .. figure:: /sample_data/images/thumb/sphx_glr_checkerboard_thumb.png
 
-        :ref:`sphx_glr_sample_data_checkerboard.py`
+     :ref:`sphx_glr_sample_data_checkerboard.py`
 
 .. raw:: html
 
@@ -98,13 +98,13 @@ up a Cartopy map to display the data.
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="We provide sample total-field magnetic anomaly data from an airborne survey of Rio de Janeiro, ...">
+    <div class="sphx-glr-thumbcontainer" tooltip="    **The Rio magnetic anomaly dataset is deprecated and will be removed in     Verde v2.0.0** ...">
 
 .. only:: html
 
-    .. figure:: /sample_data/images/thumb/sphx_glr_rio_magnetic_thumb.png
+ .. figure:: /sample_data/images/thumb/sphx_glr_rio_magnetic_thumb.png
 
-        :ref:`sphx_glr_sample_data_rio_magnetic.py`
+     :ref:`sphx_glr_sample_data_rio_magnetic.py`
 
 .. raw:: html
 
@@ -122,9 +122,9 @@ up a Cartopy map to display the data.
 
 .. only:: html
 
-    .. figure:: /sample_data/images/thumb/sphx_glr_texas-wind_thumb.png
+ .. figure:: /sample_data/images/thumb/sphx_glr_texas-wind_thumb.png
 
-        :ref:`sphx_glr_sample_data_texas-wind.py`
+     :ref:`sphx_glr_sample_data_texas-wind.py`
 
 .. raw:: html
 
@@ -137,7 +137,7 @@ up a Cartopy map to display the data.
    /sample_data/texas-wind
 .. raw:: html
 
-    <div style='clear:both'></div>
+    <div class="sphx-glr-clear"></div>
 
 
 
